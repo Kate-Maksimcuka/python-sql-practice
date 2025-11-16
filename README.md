@@ -33,6 +33,17 @@ SQL practice examples including:
 - Sorting and data cleaning patterns  
 Designed to demonstrate core SQL concepts used in data engineering.
 
+### Mini dbt-Style Example
+
+The `mini_dbt/` folder contains a simplified dbt-style project structure to help me learn analytics engineering concepts such as:
+
+- staging vs mart layers  
+- model organisation  
+- reusable macros  
+- source definitions  
+
+It is not a functional dbt project, but a structured way to practise dbt conventions and SQL modelling.
+
 
 ## Future Improvements
 
